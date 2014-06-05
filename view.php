@@ -6,5 +6,7 @@
 		var payload = <?php echo Payload::render(); ?>
 	</script>
 
+	<h1><?php echo $title; ?></h1>
+
 </body>
 </html>
